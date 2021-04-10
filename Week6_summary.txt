@@ -1,0 +1,22 @@
+This is a Summary file for week 6 assignmemnt. 
+
+THe total count of the rows:
+Transaction ID        1048574
+Date of Travel        1048574
+Company               1048574
+CITY                  1048574
+KM Travelled          1048574
+Price Charged         1048574
+Cost of Trip          1048574
+Customer ID           1048574
+Payment_Mode          1048574
+Gender                1048574
+Age                   1048574
+Income (USD/Month)    1048574
+Population            1048574
+Users                 1048574
+dtype: int64
+
+The total number of columns is 14
+
+The file size is: 111765645 kB
